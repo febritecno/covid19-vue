@@ -1,6 +1,6 @@
 # covid19-vue
 
-##Install
+## Install
 
 1. npm install
 2. npm run serve
