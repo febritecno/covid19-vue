@@ -204,7 +204,7 @@
         margin-bottom: 0;
     }
     .total-case {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
     .case-category {
         font-size: 1rem;

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <b-jumbotron header="Data COVID-19" lead="Indonesia dan Global" bg-variant="info" text-variant="white" border-variant="gray">
+        <b-jumbotron header="DATA COVID-19" lead="Indonesia & Global" bg-variant="info" border-variant="dark" text-variant="white">
         </b-jumbotron>
     </div>
 </template>

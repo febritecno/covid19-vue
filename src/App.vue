@@ -9,9 +9,6 @@
                 <indonesia-dashboard />
                 <b-tabs class="mt-4" active-nav-item-class="font-weight-bold btn" active-tab-class=""
                     content-class="mt-3" fill>
-                    <b-tab title="Tren Perhari" active lazy>
-                        <TrendIndonesiaDaily />
-                    </b-tab>
                     <b-tab title="Provinsi" lazy>
                         <ProvinceChart />
                     </b-tab>
@@ -43,7 +40,6 @@
 <script>
     import Header from './components/header/Header';
     import SummaryGlobal from './components/global/Summary';
-    import TrendIndonesiaDaily from './components/indonesia/Trend';
     import ProvinceChart from "./components/indonesia/Province";
     import IndonesiaDashboard from "./components/indonesia/Dashboard";
     import TrendGlobalDaily from "./components/global/TrendDaily";
@@ -58,7 +54,6 @@
         components: {
             Header,
             SummaryGlobal,
-            TrendIndonesiaDaily,
             ProvinceChart,
             CurrentPerCountry,
             TrendGlobalDaily,
